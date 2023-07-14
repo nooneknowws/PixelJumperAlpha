@@ -43,5 +43,4 @@ npx expo start
 # EXECUTE O PROGRAMA USANDO UM EMULADOR DE ANDROID OU UM CELULAR, O PROGRAMA NÃO RODA EM WEB.
 
 ## Autor
-
-### THALYSON BRUCK ANDREATTA
+Thalyson [GitHub](https://github.com/nooneknowws)
